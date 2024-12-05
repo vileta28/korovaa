@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #AAF9EB;
+}
+
+#block1
+{
+    background-color: white;
+    position: relative;
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+    top: 150px;
+}
+
+#block2 {
+    background-color: #AAF9EB;
+    position: relative;
+    width: 1150px;
+    height: 650px;
+    margin: auto;
+    top: 25px;
+}
+
+#korova1 {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    top: 100px;
+}
+#korova2 {
+    position: relative;
+    margin: auto;
+    bottom: 215px;
+}
+#korova5 {
+    position: absolute;
+    margin: auto;
+    bottom: 450px;
+    left: 600px;
+}
+#korova6 {
+    position: absolute;
+    margin: auto;
+    bottom: 450px;
+    right: 610px;
+}
+#korova3 {
+    position: absolute;
+    margin: auto;
+    bottom: 550px;
+    left: 200px;
+}
+#korova4 {
+    position: absolute;
+    margin: auto;
+    bottom: 556px;
+    left: 730px;
+}
+#korova7 {
+    position: absolute;
+    margin: auto;
+    bottom:  550px;
+    left: 450px;
+}
+#korova8 {
+    position: absolute;
+    margin: auto;
+    right: 420px;
+    bottom: 540px;
+}
+#glaz1 {
+    position: absolute;
+    bottom: 30px;
+    left: 60px;
+}
+#glaz2 {
+    position: absolute;
+    bottom: 30px;
+    left: 60px;
+}
+#nos1 {
+    position: absolute;
+    bottom: 300px;
+    left: 470px;
+}
+#nos2 {
+    position: absolute;
+    bottom:  300px;
+    right: 480px;
+}
